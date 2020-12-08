@@ -1,0 +1,6 @@
+D:\class\oop2\FormCWork\FormCWork\obj\Debug\FormCWork.csprojAssemblyReference.cache
+D:\class\oop2\FormCWork\FormCWork\obj\Debug\FormCWork.Form1.resources
+D:\class\oop2\FormCWork\FormCWork\obj\Debug\FormCWork.Properties.Resources.resources
+D:\class\oop2\FormCWork\FormCWork\obj\Debug\FormCWork.csproj.GenerateResource.cache
+D:\class\oop2\FormCWork\FormCWork\obj\Debug\FormCWork.csproj.CoreCompileInputs.cache
+D:\class\oop2\FormCWork\FormCWork\obj\Debug\sss.Form1.resources
